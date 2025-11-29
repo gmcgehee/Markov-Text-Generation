@@ -9,3 +9,4 @@
 /home/marc/comp_sci/projects/MarkovTextGeneration/references/obj/Debug/net8.0/refint/references.dll
 /home/marc/comp_sci/projects/MarkovTextGeneration/references/obj/Debug/net8.0/references.pdb
 /home/marc/comp_sci/projects/MarkovTextGeneration/references/obj/Debug/net8.0/ref/references.dll
+/home/marc/comp_sci/projects/MarkovTextGeneration/references/obj/Debug/net8.0/references.sourcelink.json
