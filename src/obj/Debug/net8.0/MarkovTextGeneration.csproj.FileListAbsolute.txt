@@ -16,3 +16,4 @@
 /home/marc/comp_sci/projects/MarkovTextGeneration/src/obj/Debug/net8.0/MarkovTextGeneration.pdb
 /home/marc/comp_sci/projects/MarkovTextGeneration/src/obj/Debug/net8.0/MarkovTextGeneration.genruntimeconfig.cache
 /home/marc/comp_sci/projects/MarkovTextGeneration/src/obj/Debug/net8.0/ref/MarkovTextGeneration.dll
+/home/marc/comp_sci/projects/MarkovTextGeneration/src/obj/Debug/net8.0/MarkovTextGeneration.sourcelink.json
